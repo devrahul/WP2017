@@ -1,2 +1,2 @@
 # WP2017
-My personal Repository
+ WordPress 2017 Eexperience.
